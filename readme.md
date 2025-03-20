@@ -83,7 +83,9 @@ This is the link to the **Online Assignment** that you need to complete and subm
 ### 💡 Helpful Resources:
 
 - [Google Colab Guide](https://colab.research.google.com/)
+- [https://github.com/panaversity/learn-modern-ai-python/tree/main/CLASS_PROJECTS/04_assignments]
 - [Python Documentation](https://docs.python.org/)
+
 
 ---
 
