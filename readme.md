@@ -5,9 +5,8 @@ Welcome to your **Assignment Repository**! Below are links to **Assignment 01**,
 ---
 
 ## 🚀 Table of Contents
-
-1. [Assignment 01 📖](https://colab.research.google.com/drive/1ltR0g77TxaZ1pZ7lMTlQPUDQx8Hfv3wv?usp=sharing)
-2. [Assignments 00 to 05 🎯](https://colab.research.google.com/drive/1dwAHk9Cq55hmOq0KFJNFqLzi7hffrnEB?usp=sharing)
+1. [Assignments 00 to 05 🎯](https://colab.research.google.com/drive/1dwAHk9Cq55hmOq0KFJNFqLzi7hffrnEB?usp=sharing)
+2. [Assignment 01 📖](https://colab.research.google.com/drive/1ltR0g77TxaZ1pZ7lMTlQPUDQx8Hfv3wv?usp=sharing)
 3. [Online Assignment 🌐](https://colab.research.google.com/drive/1UbS_8F9z1fgPYLZXo_Y2alDYv7pu9BvU?usp=sharing)
 4. [Instructions 📝](https://github.com/panaversity/learn-modern-ai-python/tree/main/CLASS_PROJECTS/04_assignments)
 5. [Submission Guidelines 📤](https://docs.google.com/forms/d/e/1FAIpQLSfkeRuFVpEojUX4AcpdC6pwBPMxifFreCyR9--PCkqxHGNcDw/viewform?edit2=2_ABaOnudoGK_iPQdetGArPLxESGp5jje_S_SX7rBmUr1jAdjtGX_U60PbKJnIAgCWbg)
