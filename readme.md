@@ -35,11 +35,7 @@ These assignments are designed to help you master the core concepts and build a 
 
 [**Assignments 00 to 05 - Link**](https://colab.research.google.com/drive/1dwAHk9Cq55hmOq0KFJNFqLzi7hffrnEB?usp=sharing)
 
-🔸 **Topics Included:**
-   - [Add topics here]
-   - [Add topics here]
 
----
 
 ## Online Assignment 🌐
 
@@ -78,23 +74,12 @@ This is the link to the **Online Assignment** that you need to complete and subm
 - **Final Check:**
   - Before submitting, double-check for any errors or missing steps. Ensure that you have followed all the instructions and completed all tasks.
 
----
 
-## 📞 Contact Information
-
-If you have any questions or encounter issues while working on your assignments, don't hesitate to reach out!
-
-- **Instructor/Support Team:** [Insert contact details]
-- **Email:** [Insert email]
-- **Office Hours:** [Insert hours if applicable]
-
----
 
 ### 💡 Helpful Resources:
 
 - [Google Colab Guide](https://colab.research.google.com/)
 - [Python Documentation](https://docs.python.org/)
-- [Additional Resources](#)
 
 ---
 
