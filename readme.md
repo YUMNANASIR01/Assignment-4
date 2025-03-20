@@ -36,6 +36,10 @@ These assignments are designed to help you master the core concepts and build a 
 [**Assignments 00 to 05 - Link**](https://colab.research.google.com/drive/1dwAHk9Cq55hmOq0KFJNFqLzi7hffrnEB?usp=sharing)
 
 
+## Assignments 01 🎯
+
+[**Assignments 01 - Link**](https://colab.research.google.com/drive/1ltR0g77TxaZ1pZ7lMTlQPUDQx8Hfv3wv?usp=sharing)
+
 
 ## Online Assignment 🌐
 
